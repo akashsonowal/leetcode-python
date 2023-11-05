@@ -6,6 +6,7 @@ Lifetime solution repo for leetcode
 valid parenthesis
 
 ## Heaps and Priority Queues
+top k frequent words
 
 ## Recursion & DP
 gcd
